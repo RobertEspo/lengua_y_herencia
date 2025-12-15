@@ -180,7 +180,7 @@ Las [creencias]{.emph} sobre la lengua típicamente reflejan creencias [sobre pe
 
 ## ¿A qué comunidades pertenecemos?
 
-p. ej.:
+p. ej.
 
 - nacionalidad
 - religión
@@ -194,7 +194,8 @@ p. ej.:
 
 ¿Hablas de un cierto modo por ser parte de una comunidad?
 
-P. ej.:
+p. ej.
+
 - los méxicanos pueden [pronunciar]{.emph} 'tl' como en la palabra 'tlacote', mientras que otras variedades tienen dificuldades a pronunciarla
 - trabajas en una fábrica y conoces muchas [palabras especializadas]{.emph}
 - los españoles parecen [maleducados]{.emph}
