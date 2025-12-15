@@ -1,0 +1,341 @@
+---
+title: "Lengua y herencia"
+author: "Robert Esposito and Alex Rogers"
+institute: "Rutgers University"
+date: "Last update: `r Sys.Date()`"
+format: rutgers-revealjs
+engine: knitr
+execute: 
+  out.width: "100%"
+  fig.asp: 0.5625
+  dpi: 300
+---
+
+```{r}
+library(here)
+```
+
+# Lo que vamos a cubrir {.transition}
+
+::: {.fragment .fade-up}
+::: {.fragment .semi-fade-out}
+¿Qué heredamos?
+:::
+:::
+
+::: {.fragment .fade-up}
+::: {.fragment .semi-fade-out}
+¿Qué son las actidudes lingüísticas?
+:::
+:::
+
+::: {.fragment .fade-up}
+::: {.fragment .semi-fade-out}
+Hablantes de herencia
+:::
+:::
+
+# ¿Qué heredamos? {.transition}
+
+## ¿Qué heredamos?
+
+![](assets/parents.jpeg)
+
+## ¿Qué heredamos de nuestras familias?
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](assets/car.jpg){width="400" height="300"}
+
+![](assets/dna.jpeg){width="400" height="300"}
+:::
+
+::: {.column width="50%"}
+
+![](assets/house.jpg){width="400" height="300"}
+
+![](assets/money.jpg){width="400" height="300"}
+
+:::
+
+::::
+
+## ¿Qué heredamos de nuestras comunidades?
+
+:::: {.columns}
+
+::: {.column width=50%}
+
+![](assets/church.jpg){width="400" height="300"}
+
+![](assets/children.png){width="400" height="300"}
+
+:::
+
+::: {.column width=50%}
+
+![](assets/colleagues.jpg){width="400" height="300"}
+![](assets/club.jpg){width="400" height="300"}
+
+:::
+
+::::
+
+## ¿Qué heredamos de nuestras comunidades?
+
+::: {.fragment .fade-up}
+::: {.fragment .semi-fade-out}
+- Destrezas
+:::
+:::
+
+::: {.fragment .fade-up}
+::: {.fragment .semi-fade-out}
+- Conocimiento
+:::
+:::
+
+::: {.fragment .fade-up}
+::: {.fragment .semi-fade-out}
+- Experiencia
+:::
+:::
+
+# La lengua como herencia {.transition}
+
+## ¿Qué aspectos de la lengua heredamos?
+
+![](assets/parents_talking_to_baby.jpeg)
+
+## ¿Qué aspectos de la lengua heredamos? 
+
+- Las palabras
+- Los sonidos
+- La jerga
+- El lenguaje corporal
+- Las actitudes lingüísticas
+
+# Actitudes lingüísticas
+
+## {background-image="assets/paises_hispanohablantes.avif"}
+
+## Actitudes lingüísticas
+
+<center>
+[Percepción]{.emph} o consideración de un hablante [hacia la lengua, o su uso]{.emph}, y que puede estar relacionada con una serie de [creencias generalizadas a nivel social]{.emph}.
+</center>
+
+::: footer
+fuente: https://hispaniclinguistics.com/glosario/actitud-linguistica/
+:::
+
+## Actitudes lingüísticas
+
+Las actitudes pueden ser [positivas]{.emph} o [negativas]{.emph}
+
+## Actitudes lingüísticas
+
+![](assets/baugh2003linguistic_01.bmp)
+
+::: footer
+@baugh2003linguistic
+:::
+
+## Actitudes lingüísticas
+
+![](assets/baugh2003linguistic_02.png)
+
+::: footer
+@baugh2003linguistic
+:::
+
+## Actitudes lingüísticas
+
+![](assets/baugh2003linguistic_03.bmp)
+
+::: footer
+@baugh2003linguistic
+:::
+
+## Actitudes lingüísticas
+
+¿De qué otras maneras pueden las actitudes lingüísticas afectan a las personas?
+
+## Actitudes lingüísticas
+
+<center>
+Las [creencias]{.emph} sobre la lengua típicamente reflejan creencias [sobre personas]{.emph}, no lenguaje.
+</center>
+
+# Hablantes de herencia {.transition}
+
+## Hablantes de herencia
+
+![](assets/hablante_de_herencia_01.bmp)
+
+## Hablantes de herencia
+
+![](assets/hablante_de_herencia_02.bmp)
+
+## Hablantes de herencia
+
+![](assets/hablante_de_herencia_03.bmp)
+
+## Hablantes de herencia
+
+![](assets/hablante_de_herencia_04.bmp)
+
+## Tipos de bilingües
+
+bilingüe [receptivo]{.emph}: puede entender y/o leer, pero tiene dificuldades al hablar/escribir
+
+bilingüe [productivo]{.emph}: puede entender y hablar
+
+## Hablantes de herencia
+
+¿Cómo hablan los hablantes de herencia de español y estados unidos?
+
+¿Usted tiene hijos que son bilingües?
+
+¿Has notado errores comunes?
+
+## "No sabo"
+
+¡Los 'errores' tienen orígenes lógicos!
+
+¿Qué motivación tiene un hablante de herencia decir 'no sabo' en vez de 'no sé'?
+
+## Bilingües nativos y la mente
+
+Los bilingües nativos...
+
+::: {.fragment}
+- tienen que aprender dos idiomas a la misma vez
+:::
+
+::: {.fragment}
+- tienen menos exposición a las dos lenguas comparados con monolingües
+:::
+
+::: {.fragment}
+- normalmente hablan los dos idiomas en contextos específicos
+:::
+
+## Bilingües nativos y la mente
+
+¿Cuándo usas el español?
+
+¿Cuándo cree que un bilingüe nativo en EEUU usaría el español?
+
+¿Cuándo te toca usar el inglés?
+
+¿Cuándo cree que un bilingüe nativo en EEUU usaría el inglés?
+
+## Una mente, dos idiomas
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](assets/esquina.jfif)
+
+:::
+
+::: {.column width="50%"}
+::: {.fragment}
+![](assets/rincon.jpg)
+:::
+:::
+
+::::
+
+## Una mente, dos idiomas
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](assets/esquina.jfif)
+
+esquina
+
+:::
+
+::: {.column width="50%"}
+![](assets/rincon.jpg)
+
+rincón
+:::
+
+::::
+
+## Una mente, dos idiomas
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](assets/esquina.jfif)
+
+esquina
+
+:::
+
+::: {.column width="50%"}
+![](assets/rincon.jpg)
+
+rincón
+:::
+
+<br><br><br>
+<center>
+corner
+</center>
+
+::::
+
+## ¡Gracias! {.final visibility="uncounted"}
+
+![](https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/164.png){.absolute top="0" right="0" width="55" height="55"}
+
+</br>
+
+
+<br>
+
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="text-align: right; padding-right: 10px;">
+      <a href="mailto:rme70@scarletmail.rutgers.edu">{{< fa solid envelope >}}</a>
+    </td>
+    <td>rme70@scarletmail.rutgers.edu</td>
+  </tr>
+
+  <tr>
+    <td style="text-align: right; padding-right: 10px;">
+      <a href="https://www.jvcasillas.com/quarto-rutgers-theme/">{{< fa solid link >}}</a>
+    </td>
+    <td>jvcasillas.com/quarto-rutgers-theme</td>
+  </tr>
+
+  <tr>
+    <td style="text-align: right; padding-right: 10px;">
+      <a href="https://robertespo.github.io/">{{< fa solid link >}}</a>
+    </td>
+    <td>robertespo.github.io</td>
+  </tr>
+
+  <tr>
+    <td style="text-align: right; padding-right: 10px;">
+      <a href="https://github.com/RobertEspo">{{< fa brands github >}}</a>
+    </td>
+    <td>\@RobertEspo</td>
+  </tr>
+</table>
+
+## References {visibility="uncounted"}
+
+::: {#refs .smaller}
+:::
